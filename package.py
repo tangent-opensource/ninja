@@ -2,7 +2,7 @@
 
 name = 'ninja'
 
-version = '1.10.1+ta.1.0.1'
+version = '1.10.1-ta.1.1.0'
 
 authors = [
     'philip.luk',
